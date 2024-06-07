@@ -1,0 +1,154 @@
+texte,contexte
+Quels sont vos services après-vente?,paiement
+Comment puis-je créer un compte?,garantie
+Quels sont les délais de livraison?,prix_billet_bizerte
+Quels sont les moyens de paiement acceptés?,produits_promotion
+Quels sont les moyens de paiement acceptés?,suivi_commande
+Quels sont les points de fidélité?,creation_compte
+"Bonjour, je voudrais savoir les horaires d'ouverture.",delais_remboursement
+Quels sont les produits en promotion cette semaine?,prix_billet_bizerte
+Puis-je changer mon adresse de livraison?,delais_remboursement
+Avez-vous une politique de garantie?,suivi_commande
+Où se trouve votre magasin?,horaires_service_client
+Quels sont les délais de remboursement?,creation_compte
+Puis-je obtenir une facture?,delais_remboursement
+Puis-je obtenir une facture?,catalogue
+Pouvez-vous m'aider avec ma commande?,garantie
+Pouvez-vous m'aider avec ma commande?,promotions
+Comment puis-je retourner un article?,promotions
+Comment puis-je suivre ma commande?,horaires_service_client
+Quels sont les frais d'expédition?,retour
+Puis-je changer mon adresse de livraison?,delais_livraison
+Quels sont les frais d'expédition?,delais_remboursement
+Quels sont les délais de remboursement?,vol_bizerte
+Quels sont les produits en promotion cette semaine?,delais_remboursement
+Comment puis-je contacter le service client?,annulation_commande
+Comment puis-je réinitialiser mon mot de passe?,prix_billet_bizerte
+Quels sont les moyens de paiement acceptés?,annulation_commande
+Quels sont les délais de livraison?,changement_adresse
+Avez-vous une politique de garantie?,paiement
+Puis-je changer mon adresse de livraison?,frais_expédition
+Quels sont les délais de livraison?,produits
+Quels sont les produits disponibles?,facture
+Quels sont les points de fidélité?,changement_adresse
+Quels sont les points de fidélité?,suivi_commande
+Puis-je changer mon adresse de livraison?,retrait_magasin
+Quels sont vos services après-vente?,vol_bizerte
+Quels sont les moyens de paiement acceptés?,services_apres_vente
+Quels sont vos horaires d'ouverture le week-end?,delais_livraison
+Quels sont les frais d'expédition?,catalogue
+Quels sont les délais de remboursement?,aide
+Quels sont vos horaires d'ouverture le week-end?,reinitialisation_mot_de_passe
+Puis-je récupérer ma commande en magasin?,produits_promotion
+vol horaires de bizerte c est a 10 vers à 15.,frais_expédition
+Comment puis-je suivre ma commande?,reservation_en_ligne
+Puis-je obtenir une facture?,garantie
+Comment puis-je contacter le service client?,aide
+Comment puis-je créer un compte?,produits_promotion
+Comment puis-je réinitialiser mon mot de passe?,creation_compte
+Quels sont les points de fidélité?,service_client
+Quels sont les délais de livraison?,services_apres_vente
+Quels sont vos horaires d'ouverture le week-end?,horaires_service_client
+Quels sont les moyens de paiement acceptés?,points_fidelite
+Quels sont les horaires de votre service client?,horaires_service_client
+Comment puis-je suivre ma commande?,facture
+Y a-t-il des promotions en cours?,garantie
+Quels sont les délais de remboursement?,retrait_magasin
+"Bonjour, je voudrais savoir les horaires d'ouverture.",annulation_commande
+Pouvez-vous m'aider avec ma commande?,service_client
+Quels sont les délais de remboursement?,vol_bizerte
+Comment puis-je créer un compte?,delais_livraison
+Y a-t-il des promotions en cours?,reservation_en_ligne
+Où puis-je trouver votre catalogue?,garantie
+Quels sont les frais d'expédition?,retrait_magasin
+Où se trouve votre magasin?,catalogue
+Quels sont les délais de remboursement?,retrait_magasin
+Avez-vous une politique de garantie?,facture
+Quels sont les moyens de paiement acceptés?,points_fidelite
+Puis-je récupérer ma commande en magasin?,produits
+Quel est le prix d'un billet pour bizerte?,promotions
+Quels sont les points de fidélité?,produits
+Quels sont les délais de livraison?,suivi_commande
+Puis-je changer mon adresse de livraison?,horaires
+Puis-je réserver un produit en ligne?,promotions
+Quels sont les points de fidélité?,horaires_weekend
+Avez-vous une politique de garantie?,delais_livraison
+Puis-je réserver un produit en ligne?,aide
+Quels sont les points de fidélité?,aide
+vol horaires de paris c est a 9h vers à 18h.,frais_expédition
+Quels sont les délais de livraison?,produits
+Comment puis-je retourner un article?,annulation_commande
+Quels sont les moyens de paiement acceptés?,service_client
+Où puis-je trouver votre catalogue?,creation_compte
+Où se trouve votre magasin?,vol_bizerte
+Comment puis-je contacter le service client?,aide
+Puis-je récupérer ma commande en magasin?,creation_compte
+vol horaires de bizerte c est a 10 vers à 15.,vol_bizerte
+Quels sont les modes de livraison disponibles?,aide
+Quels sont les délais de remboursement?,suivi_commande
+Comment puis-je réinitialiser mon mot de passe?,points_fidelite
+Puis-je annuler ma commande?,promotions
+Quels sont les points de fidélité?,localisation
+Y a-t-il des promotions en cours?,produits_promotion
+Puis-je annuler ma commande?,produits_promotion
+Quels sont vos horaires d'ouverture le week-end?,vol_paris
+Quel est le prix d'un billet pour bizerte?,horaires_service_client
+Pouvez-vous m'aider avec ma commande?,delais_livraison
+vol horaires de bizerte c est a 10 vers à 15.,delais_livraison
+Comment puis-je retourner un article?,suivi_commande
+Quels sont les produits disponibles?,creation_compte
+Quels sont les produits disponibles?,produits_promotion
+Quels sont vos horaires d'ouverture le week-end?,retrait_magasin
+Comment puis-je contacter le service client?,horaires
+Comment puis-je contacter le service client?,vol_bizerte
+Puis-je obtenir une facture?,points_fidelite
+vol horaires de bizerte c est a 10 vers à 15.,vol_paris
+Comment puis-je suivre ma commande?,aide
+Où se trouve votre magasin?,suivi_commande
+Comment puis-je créer un compte?,localisation
+Quels sont vos services après-vente?,creation_compte
+Quels sont les points de fidélité?,horaires_weekend
+Comment puis-je créer un compte?,aide
+Comment puis-je suivre ma commande?,points_fidelite
+Puis-je récupérer ma commande en magasin?,reinitialisation_mot_de_passe
+Quels sont les horaires de votre service client?,delais_remboursement
+Où se trouve votre magasin?,vol_bizerte
+Quels sont les moyens de paiement acceptés?,produits_promotion
+Pouvez-vous m'aider avec ma commande?,produits
+Quel est le prix d'un billet pour bizerte?,facture
+Pouvez-vous m'aider avec ma commande?,horaires_service_client
+Quel est le prix d'un billet pour bizerte?,creation_compte
+Quels sont les modes de livraison disponibles?,garantie
+Quels sont les produits disponibles?,reinitialisation_mot_de_passe
+Comment puis-je réinitialiser mon mot de passe?,modes_livraison
+Quels sont les points de fidélité?,frais_expédition
+Comment puis-je suivre ma commande?,delais_remboursement
+vol horaires de bizerte c est a 10 vers à 15.,promotions
+Quels sont les horaires de votre service client?,horaires_service_client
+Comment puis-je suivre ma commande?,facture
+Comment puis-je retourner un article?,produits
+Quels sont les frais d'expédition?,frais_expédition
+Comment puis-je réinitialiser mon mot de passe?,frais_expédition
+Pouvez-vous m'aider avec ma commande?,catalogue
+Pouvez-vous m'aider avec ma commande?,frais_expédition
+Puis-je changer mon adresse de livraison?,delais_livraison
+Quel est le prix d'un billet pour bizerte?,vol_bizerte
+Comment puis-je contacter le service client?,frais_expédition
+Quels sont les moyens de paiement acceptés?,modes_livraison
+Quels sont les produits disponibles?,services_apres_vente
+Quels sont les moyens de paiement acceptés?,facture
+"Bonjour, je voudrais savoir les horaires d'ouverture.",horaires_service_client
+Puis-je obtenir une facture?,suivi_commande
+Puis-je obtenir une facture?,paiement
+Puis-je récupérer ma commande en magasin?,paiement
+Quels sont les frais d'expédition?,produits_promotion
+Puis-je obtenir une facture?,prix_billet_bizerte
+Quels sont les horaires de votre service client?,facture
+Comment puis-je créer un compte?,delais_remboursement
+Comment puis-je créer un compte?,reservation_en_ligne
+Où se trouve votre magasin?,delais_livraison
+Quels sont les frais d'expédition?,facture
+Comment puis-je contacter le service client?,facture
+Quel est le prix d'un billet pour Bizerte en juin?,prix_billet_bizerte_juin
+Quel est le prix d'un billet pour Bizerte en juin?,prix_billet_bizerte_juin
+Quel est le prix d'un billet pour Bizerte en juin?,prix_billet_bizerte_juin
